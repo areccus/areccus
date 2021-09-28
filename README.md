@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @areccus
 - 👀 I’m interested in:
-Programming, Network Diagnostic, Computer Repair, Cybersecurity, the whole nine.
+Programming, Network Diagnostic, Computer Repair, Cybersecurity.
 
 - 🌱 I’m currently learning:
 HTML, CSS, Javascript, and Python.
